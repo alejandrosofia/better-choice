@@ -265,3 +265,4 @@ Two options:
 * Build an admin web interface
 * Create Google spreadsheets for volunteers to enter data, and have scripts to ingest them into Firebase.
 * What type of data would need to be entered by volunteers in our scenario tho....?
+* Web admin is most likely the best option b/c the data needs to be accessible for us to organize, securely store, and sell + provide insights 
